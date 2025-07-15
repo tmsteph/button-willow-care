@@ -1,7 +1,7 @@
 .oval {
       width: 200px;
       height: 100px;
-      background: 00FFFF;
+      background-color: 00FFFF;
       border-radius: 100px / 50px;
     }
   
