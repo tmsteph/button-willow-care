@@ -11,26 +11,26 @@
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
-      float: right;}
+      float: left;}
 
 .blob-upper-right {width: 200px;
       height: 100px;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
-      float: left;}
+      float: right;}
 
 .blob-lower-left {width: 200px;
       height: 100px;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
-      float: right;}
+      float: left;}
 
 .blob-lower-right {width: 200px;
       height: 100px;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
-      float: left;}
+      float: right;}
   
