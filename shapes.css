@@ -6,4 +6,31 @@
       margin: 0 auto;
       float: left;
     }
+.blob-upper-left {width: 200px;
+      height: 100px;
+      background-color: F0D000;
+      border-radius: 100px / 50px;
+      margin: 0 auto;
+      float: right;}
+
+.blob-upper-right {width: 200px;
+      height: 100px;
+      background-color: F0D000;
+      border-radius: 100px / 50px;
+      margin: 0 auto;
+      float: left;}
+
+.blob-lower-left {width: 200px;
+      height: 100px;
+      background-color: F0D000;
+      border-radius: 100px / 50px;
+      margin: 0 auto;
+      float: right;}
+
+.blob-lower-right {width: 200px;
+      height: 100px;
+      background-color: F0D000;
+      border-radius: 100px / 50px;
+      margin: 0 auto;
+      float: left;}
   
