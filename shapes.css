@@ -1,29 +1,30 @@
 .blob-upper-left {
-      width: 200px;
-      height: 100px;
+      width: 2rem;
+      height: 20rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: left;}
 
 .blob-upper-right {
-      width: 200px;
-      height: 100px;
+      width: 10rem;
+      height: 1rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: right;}
 
 .blob-lower-left {
-      width: 200px;
-      height: 100px;
+      width: 5rem;
+      height: 8rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: left;}
 
-.blob-lower-right {width: 200px;
-      height: 100px;
+.blob-lower-right {
+      width: 8rem;
+      height: 5rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
