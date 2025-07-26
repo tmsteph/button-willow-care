@@ -6,12 +6,8 @@ body { background-color: E0B600;
 
  
 ul {
-  text-align: center;
+  text-align: left;
   list-style-position: inside;
-}
-
-li {
-    align-item: start; 
 }
 
 h1 {
