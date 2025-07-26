@@ -9,7 +9,7 @@
       position: absolute;
       top: 0rem;
       left:0rem;
-      z-index: -1
+      z-index: -1;
 }
 
 .blob-upper-right {
@@ -22,6 +22,7 @@
       position: absolute;
       top: 0rem;
       right: 0rem
+      z-index: -1;
 }
 
 .blob-lower-left {
@@ -34,6 +35,7 @@
       position: absolute;
       bottom: 0rem;
       left: 0rem
+      z-index: -1;
 }
 
 .blob-lower-right {
@@ -46,5 +48,6 @@
       position: absolute;
       bottom: 0rem;
       right: 0rem;
+      z-index: -1;
 }
   
