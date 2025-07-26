@@ -5,7 +5,11 @@
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: left;
+      
       position: absolute;
+      top: 0rem;
+      left:0rem;
+      z-index: -1
 }
 
 .blob-upper-right {
@@ -15,7 +19,9 @@
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: right;
-      position: absolute
+      position: absolute;
+      top: 0rem;
+      right: 0rem
 }
 
 .blob-lower-left {
@@ -25,7 +31,9 @@
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: left;
-      position: absolute
+      position: absolute;
+      bottom: 0rem;
+      left: 0rem
 }
 
 .blob-lower-right {
@@ -35,6 +43,8 @@
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: right;
-      position: absolute
+      position: absolute;
+      bottom: 0rem;
+      right: 0rem;
 }
   
