@@ -4,7 +4,9 @@
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
-      float: left;}
+      float: left;
+      position: absolute;
+}
 
 .blob-upper-right {
       width: 20rem;
@@ -12,7 +14,9 @@
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
-      float: right;}
+      float: right;
+      position: absolute
+}
 
 .blob-lower-left {
       width: 20rem;
@@ -20,7 +24,9 @@
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
-      float: left;}
+      float: left;
+      position: absolute
+}
 
 .blob-lower-right {
       width: 20rem;
@@ -28,5 +34,7 @@
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
-      float: right;}
+      float: right;
+      position: absolute
+}
   
