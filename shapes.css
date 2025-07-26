@@ -1,6 +1,6 @@
 .blob-upper-left {
-      width: 200rem;
-      height: 80rem;
+      width: 20rem;
+      height: 10rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
@@ -15,7 +15,7 @@
       float: right;}
 
 .blob-lower-left {
-      width: 80rem;
+      width: 30rem;
       height: 27rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
@@ -23,8 +23,8 @@
       float: left;}
 
 .blob-lower-right {
-      width: 77rem;
-      height: 80rem;
+      width: 44rem;
+      height: 33rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
