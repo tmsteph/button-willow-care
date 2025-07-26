@@ -10,6 +10,10 @@ ul {
   list-style-position: inside;
 }
 
+li {
+    align-item: start; 
+}
+
 h1 {
      font-size: 10rem;
 }
