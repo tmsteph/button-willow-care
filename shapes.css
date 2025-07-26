@@ -1,9 +1,52 @@
-.oval {
-      width: 200px;
-      height: 100px;
+.blob-upper-left {
+      width: 30rem;
+      height: 15rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: left;
-    }
+      position: absolute;
+      top: 0rem;
+      left:0rem;
+      z-index: -1;
+}
+
+.blob-upper-right {
+      width: 30rem;
+      height: 30rem;
+      background-color: F0D000;
+      border-radius: 100px / 50px;
+      margin: 0 auto;
+      float: right;
+      position: absolute;
+      top: 0rem;
+      right: 0rem;
+      z-index: -1;
+}
+
+.blob-lower-left {
+      width: 33rem;
+      height: 33rem;
+      background-color: F0D000;
+      border-radius: 100px / 50px;
+      margin: 0 auto;
+      float: left;
+      position: absolute;
+      bottom: 0rem;
+      left: 0rem
+      z-index: -1;
+}
+
+.blob-lower-right {
+      width: 20rem;
+      height: 22rem;
+      background-color: F0D000;
+      border-radius: 100px / 50px;
+      margin: 0 auto;
+      float: right;
+      position: absolute;
+      bottom: 0rem;
+      right: 0rem;
+      z-index: -1;
+}
   
