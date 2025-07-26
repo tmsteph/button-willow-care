@@ -6,6 +6,7 @@ body { background-color: E0B600;
 
  
 ul {
+  display: inline-block;
   text-align: left;
   list-style-position: inside;
 }
