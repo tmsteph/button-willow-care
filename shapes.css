@@ -7,24 +7,24 @@
       float: left;}
 
 .blob-upper-right {
-      width: 70rem;
-      height: 65rem;
+      width: 20rem;
+      height: 10rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: right;}
 
 .blob-lower-left {
-      width: 30rem;
-      height: 27rem;
+      width: 20rem;
+      height: 10rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
       float: left;}
 
 .blob-lower-right {
-      width: 44rem;
-      height: 33rem;
+      width: 20rem;
+      height: 10rem;
       background-color: F0D000;
       border-radius: 100px / 50px;
       margin: 0 auto;
