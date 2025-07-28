@@ -4,6 +4,9 @@ body { background-color: E0B600;
       font-color: black;
      }
 
+h1 {
+     font-size: 10rem;
+}
  
 ul {
   font-size: 2.7rem;
@@ -12,6 +15,9 @@ ul {
   list-style-position: inside;
 }
 
-h1 {
-     font-size: 10rem;
+.contact p {
+     text-align:left;
+     display: inline-block;
 }
+
+
