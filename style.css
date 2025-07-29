@@ -27,13 +27,14 @@ ul {
 }
 
 #bio {
-     width: max-content; 
-     margin: 0 auto; 
-     text-align: left;
+     
 }
 
 #bio p {
      font-size : 2rem;
+     width: max-content; 
+     margin: 0 auto; 
+     text-align: left;
 }
 
 
