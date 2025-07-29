@@ -27,14 +27,20 @@ ul {
 }
 
 #bio {
-     
-}
-
-#bio p {
-     font-size : 2rem;
      width: max-content; 
      margin: 0 auto; 
      text-align: left;
 }
+
+#bio h2{
+     text-align: center;
+}
+
+#bio p {
+     font-size : 2rem;
+     
+}
+
+
 
 
