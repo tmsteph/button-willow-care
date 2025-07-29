@@ -1,16 +1,33 @@
-body { background-color: E0B600;
+body { 
+     background-color: E0B600;
      text-align: center;
-      font-size: 2.7rem;
-      font-color: black;
+     font-size: 2.7rem;
+     font-color: black;
      }
 
+h1 {
+     font-size: 10rem;
+}
  
 ul {
+  font-size: 2.7rem;
   display: inline-block;
   text-align: left;
   list-style-position: inside;
 }
 
-h1 {
-     font-size: 10rem;
+#contact {
+     width: max-content; 
+     margin: 0 auto; 
+     text-align: left;
 }
+
+#contact p {
+     font-size: 2.7rem;
+}
+
+#bio p {
+     font-size : 2rem;
+}
+
+
