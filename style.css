@@ -16,11 +16,16 @@ ul {
   list-style-position: inside;
 }
 
+#contact {
+     width: max-content; 
+     margin: 0 auto; 
+     text-align: left;
+}
+
 
 
 #contact p {
-     text-align: left;
-     display: inline-block;
+     
 }
 
 
