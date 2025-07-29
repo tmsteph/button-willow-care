@@ -26,6 +26,12 @@ ul {
      font-size: 2.7rem;
 }
 
+#bio {
+     width: max-content; 
+     margin: 0 auto; 
+     text-align: left;
+}
+
 #bio p {
      font-size : 2rem;
 }
