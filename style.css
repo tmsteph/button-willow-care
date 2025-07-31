@@ -13,12 +13,10 @@ ul {
   font-size: 2.7rem;
   display: inline-block;
   text-align: left;
-  list-style-position: inside;
 }
 
 #contact {
      display: inline-block;
-     margin: 0 auto; 
      text-align: left;
 }
 
@@ -28,7 +26,6 @@ ul {
 
 #bio { 
      display:inline-block;
-     margin: 0 auto; 
      text-align: left;
 }
 
