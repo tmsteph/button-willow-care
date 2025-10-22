@@ -1,4 +1,4 @@
-.blob-upper-left {
+.button-upper-left {
       width: 20rem;
       height: 20rem;
       background-color: E0C0C0;
@@ -11,7 +11,7 @@
       z-index: -1;
 }
 
-.blob-upper-right {
+.button-upper-right {
       width: 20rem;
       height: 20rem;
       background-color: D0D0D0;
@@ -24,7 +24,7 @@
       z-index: -1;
 }
 
-.blob-lower-left {
+.button-lower-left {
       width: 20rem;
       height: 20rem;
       background-color: F0D000;
@@ -37,7 +37,7 @@
       z-index: -1;
 }
 
-.blob-lower-right {
+.button-lower-right {
       width: 20rem;
       height: 20rem;
       background-color: D0C0F0;
